@@ -29,3 +29,7 @@
 Evans - DJ YOSHITAKA
 SON OF SUN - Hosoe Shinji
 Unilmited Power - Jaroslav Beck
+
+3. 폰트
+BlackHanSans-Regular
+TmonMonsori.otf
